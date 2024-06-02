@@ -15,4 +15,4 @@ If you wanna play with a different time instead of the default 2/3/5/10 seconds,
 - Go into the "main.py" file with a text editor like Notepad
 - Find the "DIFFICULTY TIMES IN SECONDS" section
 - Change a difficulty's number (which is in seconds) and select that difficulty in the menu
-- For example, if I wanna change the SUPERHUMAN difficulty time to 0.5 seconds, I'd change its number from 2 to 0.5
+- EXAMPLE: If I wanna change the SUPERHUMAN difficulty time to 0.5 seconds, I'd change its number from 2 to 0.5
