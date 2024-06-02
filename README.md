@@ -1,6 +1,6 @@
-Here's how to get it running:
+# Here's how to get it running:
 
-Windows
+WINDOWS
 - In the main branch (before you clicked this README file), click the "<> Code" section
 - Click "Download ZIP" at the bottom
 - Locate the ZIP folder in your downloads and extract it
@@ -10,3 +10,9 @@ Windows
 - Go to the top of file explorer and copy the file directory <CTRL+C>
 - Type "cd <CTRL+V>", which should put you in the correct file directory
 - Type "python main.py", it should work once you type that in!
+
+If you wanna play with a different time instead of the default 2/3/5/10 seconds, here's how you do it:
+- Go into the "main.py" file with a text editor like Notepad
+- Find the "DIFFICULTY TIMES IN SECONDS" section
+- Change a difficulty's number (which is in seconds) and select that difficulty in the menu!
+- For example, if I wanna change the SUPERHUMAN difficulty time to 0.5 seconds, I'd change its number from 2 to 0.5
