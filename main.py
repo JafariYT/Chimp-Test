@@ -8,8 +8,8 @@ pygame.init()
 # DIFFICULTY TIMES IN SECONDS
 # If you wanna play with a different time just change a difficulty's number and select that difficulty in the menu!
 SUPERHUMAN = 2
-MEDIUM = 3
-HARD = 5
+HARD = 3
+MEDIUM = 5
 EASY = 10
 
 WIDTH = pygame.display.Info().current_w
